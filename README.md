@@ -1,2 +1,1 @@
-# VITS-Trilingual
-English, Chinese and Japanese Text-to-Speech
+# Stella Trilingual TTS Based on VITS
