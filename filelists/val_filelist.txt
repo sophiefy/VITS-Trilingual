@@ -1,0 +1,272 @@
+DUMMY/natsume/natsume_4101.wav|0|で、しゃぶったりしたの？|ja
+DUMMY/natsume/natsume_4102.wav|0|答えなさい、しゃぶったの？|ja
+DUMMY/natsume/natsume_4103.wav|0|そう……|ja
+DUMMY/natsume/natsume_4104.wav|0|完全に火打谷さんの方が、経験値上ですからね……、人生の……|ja
+DUMMY/natsume/natsume_4105.wav|0|アツアツね……|ja
+DUMMY/natsume/natsume_4106.wav|0|ワタシももらっていいですか？|ja
+DUMMY/natsume/natsume_4107.wav|0|はい、大丈夫です。ありがとうございます|ja
+DUMMY/natsume/natsume_4108.wav|0|じゃあワタシこっちだから。お疲れ様|ja
+DUMMY/natsume/natsume_4109.wav|0|ねぇ、高嶺君。ちょっといい？|ja
+DUMMY/natsume/natsume_4110.wav|0|違う。火打谷さんのこと|ja
+DUMMY/natsume/natsume_4111.wav|0|からかいにきたわけでもない。火打谷さんって、試験今日で終わりよね？|ja
+DUMMY/natsume/natsume_4112.wav|0|そっ、か。じゃあシフト表は間違いじゃない、か|ja
+DUMMY/natsume/natsume_4113.wav|0|そう。午後から――のはずなんだけど|ja
+DUMMY/natsume/natsume_4114.wav|0|１０分遅刻|ja
+DUMMY/natsume/natsume_4115.wav|0|そう。いつも１０分前には来てるのに、まだ来てないのよね|ja
+DUMMY/natsume/natsume_4116.wav|0|高嶺君からしてもらおうと思って|ja
+DUMMY/natsume/natsume_4117.wav|0|きっとやむにやまれぬ事情があるんだろうけど、ワタシから連絡すると、ほら、不必要に恐縮させそうで|ja
+DUMMY/natsume/natsume_4118.wav|0|怒ってないことと、急がなくてもいいって伝えておいてくれる？|ja
+DUMMY/natsume/natsume_4119.wav|0|頼むわね、こーくん|ja
+DUMMY/natsume/natsume_4120.wav|0|お疲れ様|ja
+DUMMY/natsume/natsume_4121.wav|0|おはよう|ja
+DUMMY/natsume/natsume_4122.wav|0|今日も忙しくなりそうだけど、がんばりましょ|ja
+DUMMY/natsume/natsume_4123.wav|0|目が泳いでる|ja
+DUMMY/natsume/natsume_4124.wav|0|まさか……|ja
+DUMMY/natsume/natsume_4125.wav|0|使った……？|ja
+DUMMY/natsume/natsume_4126.wav|0|顔も赤いですし……、ねぇ？|ja
+DUMMY/natsume/natsume_4127.wav|0|したの？これ着て？|ja
+DUMMY/natsume/natsume_4128.wav|0|そうですね……、女子会開かないと……|ja
+DUMMY/natsume/natsume_4129.wav|0|いわゆる、コスプレか……|ja
+DUMMY/natsume/natsume_4130.wav|0|ドエロ谷愛衣……|ja
+DUMMY/natsume/natsume_4131.wav|0|風邪ですか？|ja
+DUMMY/natsume/natsume_4132.wav|0|それなら……いいんですけど|ja
+DUMMY/natsume/natsume_4133.wav|0|そうですか？|ja
+DUMMY/natsume/natsume_4134.wav|0|怒った……のかな？微妙に怒ってるのとは……違う気もしたけど|ja
+DUMMY/natsume/natsume_4135.wav|0|涼音さん、怒る時はもっとあからさまに怒るし。もう少し様子を見ましょうか|ja
+DUMMY/natsume/natsume_4136.wav|0|なにかいい事でもあったのかな？|ja
+DUMMY/natsume/natsume_4137.wav|0|そうかもしれないけど。頑張り過ぎるのも、それはそれでよくない気がするんだけどね|ja
+DUMMY/natsume/natsume_4138.wav|0|……明月さん、いきなり何言ってるの|ja
+DUMMY/natsume/natsume_4139.wav|0|そういう意味じゃなくてっ！|ja
+DUMMY/natsume/natsume_4140.wav|0|あと２人も。どういう付き合いでも口を挟むつもりはないですけど、店の中でそんなセッ……の話はちょっと……|ja
+DUMMY/natsume/natsume_4141.wav|0|謎も解けたことだし、開店の準備をしましょうか|ja
+DUMMY/natsume/natsume_4142.wav|0|涼音さんでも……不安になるんですね|ja
+DUMMY/natsume/natsume_4143.wav|0|いえ。そうではなくて……涼音さんのケーキなら、間違いはないですから|ja
+DUMMY/natsume/natsume_4144.wav|0|ねえ。涼音さん、最近ずっとあんな感じで唸ってるけど……どうしたの？|ja
+DUMMY/natsume/natsume_4145.wav|0|締切、もうすぐじゃなかった？|ja
+DUMMY/natsume/natsume_4146.wav|0|なるほどねー|ja
+DUMMY/natsume/natsume_4147.wav|0|協力しないの？彼氏として|ja
+DUMMY/natsume/natsume_4148.wav|0|そりゃまあ、そうかもしれないけど|ja
+DUMMY/natsume/natsume_4149.wav|0|でも応援って、そんな直接的なことだけじゃないと思うんだけど|ja
+DUMMY/natsume/natsume_4150.wav|0|協力の仕方は色々あるもんでしょ|ja
+DUMMY/natsume/natsume_4151.wav|0|安直な手伝い方だけじゃなくて。彼氏として、彼女に必要なことを考えるのも、重要なことだと思うけど？|ja
+DUMMY/natsume/natsume_4152.wav|0|オーダー入ります。パンケーキが２皿。ストロベリーソースと、チョコレートソースです|ja
+DUMMY/natsume/natsume_4153.wav|0|………？|ja
+DUMMY/natsume/natsume_4154.wav|0|どうかしたんですか？|ja
+DUMMY/natsume/natsume_4155.wav|0|え！？大変じゃないですかっ、病院に行った方がいいですよっ|ja
+DUMMY/natsume/natsume_4156.wav|0|でも、痛いんですよね？|ja
+DUMMY/natsume/natsume_4157.wav|0|……はい？|ja
+DUMMY/natsume/natsume_4158.wav|0|あー……赤くなっちゃってますね|ja
+DUMMY/natsume/natsume_4159.wav|0|ワイヤー入りだと、そうですね|ja
+DUMMY/natsume/natsume_4160.wav|0|普段は、もっと楽なのを付けてるんですよね？|ja
+DUMMY/natsume/natsume_4161.wav|0|無理して付けない方がいいですよ。擦れて血が出ることもありますし|ja
+DUMMY/natsume/natsume_4162.wav|0|何故そんな悔しそうに|ja
+DUMMY/natsume/natsume_4163.wav|0|あー……言いそう……|ja
+DUMMY/natsume/natsume_4164.wav|0|だからワイヤーなんですね。なるほど|ja
+DUMMY/natsume/natsume_4165.wav|0|言ってません|ja
+DUMMY/natsume/natsume_4166.wav|0|一言もそんなことは言ってませんから、ド下ネタで現実逃避するのは止めて下さい|ja
+DUMMY/natsume/natsume_4167.wav|0|ワイヤーがなくても、可愛い下着は沢山あると思うんですけど|ja
+DUMMY/natsume/natsume_4168.wav|0|付き合うって……下着選びにですか？|ja
+DUMMY/natsume/natsume_4169.wav|0|はぁ……それは、まあ……別に構いませんけど|ja
+DUMMY/natsume/natsume_4170.wav|0|涼音さんって……可愛いわよね。なんかこう、必死に尽くしてくれるところが。意外とさ|ja
+DUMMY/natsume/natsume_4171.wav|0|べつにー|ja
+DUMMY/natsume/natsume_4172.wav|0|悪いけど。ワタシも長めの休憩取らせてもらうから|ja
+DUMMY/biaobei/004001.wav|1|数月前，汤淼和周苏红办理了离婚手续。|ch
+DUMMY/biaobei/004002.wav|1|哦，这真把我问住了，你希望我上网搜索答案吗？|ch
+DUMMY/biaobei/004003.wav|1|老婆过去安慰，说：“别哭了，这有什么疼的。|ch
+DUMMY/biaobei/004004.wav|1|布兰尼丝毫不改豪放作风，一头乱发显得颇为邋遢。|ch
+DUMMY/biaobei/004005.wav|1|冰一冰你的脑袋，总有一款沁爽适合你。|ch
+DUMMY/biaobei/004006.wav|1|小谢尔博好奇地爬上跳马，摔下来，爬上去，又摔了下来。|ch
+DUMMY/biaobei/004007.wav|1|他要下山就得用手刨雪。|ch
+DUMMY/biaobei/004008.wav|1|跳蚤化石很罕见。|ch
+DUMMY/biaobei/004009.wav|1|穆棱河上的排污沟。|ch
+DUMMY/biaobei/004010.wav|1|彼时，王喜峰官运亨通，项目投资当年升任开封市市长助理。|ch
+DUMMY/biaobei/004011.wav|1|和德运说，这都是运气练功的缘故。|ch
+DUMMY/biaobei/004012.wav|1|莫里森买了一双新鞋却不穿。|ch
+DUMMY/biaobei/004013.wav|1|起草者是乡纪委书记黄淑群。|ch
+DUMMY/biaobei/004014.wav|1|夫妻俩给“小龙子”起名“王周麟”。|ch
+DUMMY/biaobei/004015.wav|1|接着又改买黄金、基金、股票等。|ch
+DUMMY/biaobei/004016.wav|1|王莹用劲控制自己的笑，又干咳两声。|ch
+DUMMY/biaobei/004017.wav|1|这个一路上报到汇丰银行高层那儿。|ch
+DUMMY/biaobei/004018.wav|1|有时候我做梦都想投奔他。|ch
+DUMMY/biaobei/004019.wav|1|而手指甲也一片一片地劈掉，再长出来。|ch
+DUMMY/biaobei/004020.wav|1|乳品新国标甫一出台，便引发了争议。|ch
+DUMMY/biaobei/004021.wav|1|建议市民购买狗肉时，尽量买带皮狗肉。|ch
+DUMMY/biaobei/004022.wav|1|金山网络紧急推出相关补丁。|ch
+DUMMY/biaobei/004023.wav|1|新娘斯蒂芬妮白肤金发。|ch
+DUMMY/biaobei/004024.wav|1|老将谭宗亮的状态如何？|ch
+DUMMY/biaobei/004025.wav|1|平时昂贵，一放开必然成这样。|ch
+DUMMY/biaobei/004026.wav|1|购物广场只允许人出来，不允许任何人进入。|ch
+DUMMY/biaobei/004027.wav|1|说着显露一个鲍威尔式的微笑，问：谁来写呢？|ch
+DUMMY/biaobei/004028.wav|1|真是业界良心啊。|ch
+DUMMY/biaobei/004029.wav|1|外面没了动静，薛师傅躺在床上，辗转反侧。|ch
+DUMMY/biaobei/004030.wav|1|事故后，广州塔管理方给予被困游客退票并提供晚餐。|ch
+DUMMY/biaobei/004031.wav|1|一只羊两只羊。|ch
+DUMMY/biaobei/004032.wav|1|在这片树荫下，大叔总算可以躲开烈日，稍微休息会儿。|ch
+DUMMY/biaobei/004033.wav|1|打头阵走上台的，是位穿红棉袄的阿姨。|ch
+DUMMY/biaobei/004034.wav|1|其中动物明星“企鹅和北极熊”最为惹眼。|ch
+DUMMY/biaobei/004035.wav|1|当时汪女士满口答应。|ch
+DUMMY/biaobei/004036.wav|1|但对通济镇而言，“夹生饭”吞不下去了。|ch
+DUMMY/biaobei/004037.wav|1|我获得了小衰衰人勋章一枚，你能告诉我这是为什么咩。|ch
+DUMMY/biaobei/004038.wav|1|陈某竟开始动手动脚，并拉上窗帘，将付某摁倒欲行不轨。|ch
+DUMMY/biaobei/004039.wav|1|呈现在大家面前的鸿润羽绒被和酒店寝具，风格各有特色。|ch
+DUMMY/biaobei/004040.wav|1|采用国家体育总局最新颁布的“武打散打竞赛规则”。|ch
+DUMMY/biaobei/004041.wav|1|这如同一块干毛巾，无论使多大劲，都拧不出水来。|ch
+DUMMY/biaobei/004042.wav|1|不少网友揣测王韬可能就是在当天求婚，纷纷送上祝福。|ch
+DUMMY/biaobei/004043.wav|1|梁振英一度感触落泪，用黑色手巾擦拭。|ch
+DUMMY/biaobei/004044.wav|1|目前，乔蒂因报假警遭到逮捕。|ch
+DUMMY/biaobei/004045.wav|1|这笔钱对我而言太重要了，能把我家的债给还了呀。|ch
+DUMMY/biaobei/004046.wav|1|而且掰开之后，里外颜色差别较大。|ch
+DUMMY/biaobei/004047.wav|1|此外，公司现金、电脑等有价值财物被洗劫一空。|ch
+DUMMY/biaobei/004048.wav|1|咬一口发现里面有豆沙馅，很惊讶的告诉我们。|ch
+DUMMY/biaobei/004049.wav|1|而民警已经迂回到了妇女的左边。|ch
+DUMMY/biaobei/004050.wav|1|假驾驶证字体光滑，没有凹凸感。|ch
+DUMMY/biaobei/004051.wav|1|又到一年月圆时，今天他们依然没能回家和老人团圆。|ch
+DUMMY/biaobei/004052.wav|1|李敖表示不稀罕对方道歉但要求与对方辩论。|ch
+DUMMY/biaobei/004053.wav|1|而如果明确表示为台湾出兵，则可能会怂恿“台独”。|ch
+DUMMY/biaobei/004054.wav|1|转眼间，一车净挣六七百元。|ch
+DUMMY/biaobei/004055.wav|1|每天用心做辅食给她吃。|ch
+DUMMY/biaobei/004056.wav|1|为了避开朋友，董海棠让王女士先出去遛狗。|ch
+DUMMY/biaobei/004057.wav|1|但我更想多听听网友的意见。|ch
+DUMMY/biaobei/004058.wav|1|很难说这一点具有讽刺意味。|ch
+DUMMY/biaobei/004059.wav|1|目前，全国因旱饮水困难人数已达两千零四十三万人。|ch
+DUMMY/biaobei/004060.wav|1|大蒜交易区内，少了往日的热闹繁忙。|ch
+DUMMY/biaobei/004061.wav|1|经过无数次买假以后，他终成识假打假方面的鸿儒。|ch
+DUMMY/biaobei/004062.wav|1|大家擦亮眼睛，掏干净耳朵。|ch
+DUMMY/biaobei/004063.wav|1|什么时候结婚啊？|ch
+DUMMY/biaobei/004064.wav|1|么么。我也爱你。|ch
+DUMMY/biaobei/004065.wav|1|对于“状元”桂冠，耿元生说儿子还是有点激动和兴奋。|ch
+DUMMY/biaobei/004066.wav|1|温州人每年扫墓时，都要重新刷白坟墙，烧尽周围的坟草。|ch
+DUMMY/biaobei/004067.wav|1|家里还有两个娃娃在念书，没有妈妈之后，他们好可怜哦。|ch
+DUMMY/biaobei/004068.wav|1|张謇在主城一些大楼盘都有工程。|ch
+DUMMY/biaobei/004069.wav|1|依托贵阳、遵义国家级开发区加快发展航天产业。|ch
+DUMMY/biaobei/004070.wav|1|风水位置非常好，因而也成为着陆点的必选之一。|ch
+DUMMY/biaobei/004071.wav|1|闻悉，游人也纷纷饶有兴趣地摸牛身，讨个好彩头。|ch
+DUMMY/biaobei/004072.wav|1|杨某也被冠上了“最窝囊丈夫”的头衔。|ch
+DUMMY/biaobei/004073.wav|1|孩子们用带有表演性质的语调称她“妈妈”。|ch
+DUMMY/biaobei/004074.wav|1|随后，倪某怂恿张倩一起把“宝物”买下，再转手卖掉赚钱。|ch
+DUMMY/biaobei/004075.wav|1|村道泥泞，崎岖难行，极易打滑。|ch
+DUMMY/biaobei/004076.wav|1|着火轿车已被烧成空壳。|ch
+DUMMY/biaobei/004077.wav|1|他们的话语权很孱弱。|ch
+DUMMY/biaobei/004078.wav|1|货车右侧副驾驶位置被整体撞瘪，司机幸运逃过一劫。|ch
+DUMMY/biaobei/004079.wav|1|他已经祝贺奥朗德，并将扛起败选责任。|ch
+DUMMY/biaobei/004080.wav|1|下午睡个午觉，晚上吃完饭看会儿电视，一天就过去了。|ch
+DUMMY/biaobei/004081.wav|1|亨古靠近巴基斯坦与阿富汗的边界，武装分子活动频繁。|ch
+DUMMY/biaobei/004082.wav|1|昨天俺家还买了。|ch
+DUMMY/biaobei/004083.wav|1|突然被记者围堵，护儿心切的姜文用手推搡镜头。|ch
+DUMMY/biaobei/004084.wav|1|她早年当过幺幺四的话务员，后来自称下海经商。|ch
+DUMMY/biaobei/004085.wav|1|拉比耶后悔听从了这样的建议。|ch
+DUMMY/biaobei/004086.wav|1|林雨翔又恨自己没有罗密欧与神仙的交情，借不到暖的轻翼。|ch
+DUMMY/biaobei/004087.wav|1|但陈霞催着报警，金铁军却躲躲闪闪。|ch
+DUMMY/biaobei/004088.wav|1|押解被告人的不仅有法警，同时还有武警。|ch
+DUMMY/biaobei/004089.wav|1|主要为的是蹭饭。|ch
+DUMMY/biaobei/004090.wav|1|后来我被选为嘎查这个村的村长。|ch
+DUMMY/biaobei/004091.wav|1|太坏了，答应我不要截屏好伐？|ch
+DUMMY/biaobei/004092.wav|1|不管咋问就是不罚你了。|ch
+DUMMY/biaobei/004093.wav|1|为了避免麻烦和争议，许多人宁愿使用私家车。|ch
+DUMMY/biaobei/004094.wav|1|要是用大泵的话，二三十分钟就把水抽干了。|ch
+DUMMY/biaobei/004095.wav|1|重点限养区内禁止个人饲养烈性犬、大型犬。|ch
+DUMMY/biaobei/004096.wav|1|这个疙瘩压得我喘不过气来。|ch
+DUMMY/biaobei/004097.wav|1|舒跃龙表示，疫苗生产已经有了最新的进展。|ch
+DUMMY/biaobei/004098.wav|1|因为鱼游泳好累，出了很多的汗，逗你的啦。|ch
+DUMMY/biaobei/004099.wav|1|陈某大怒，称大不了鱼死网破，然后二人开始争吵起来。|ch
+DUMMY/biaobei/004100.wav|1|在“三嬢”陈章淑眼里，媛媛懂事、嘴甜、聪明，见人就会喊。|ch
+DUMMY/LJ/LJ014-0237.wav|2|I will now pass to grave but less atrocious crimes.|en
+DUMMY/LJ/LJ014-0238.wav|2|In eighteen fifty occurred the first of a series of gigantic frauds,|en
+DUMMY/LJ/LJ014-0239.wav|2|which followed each other at no long intervals, which had a strong family likeness, and originated all of them to make money easily,|en
+DUMMY/LJ/LJ014-0240.wav|2|without capital, and at railroad speed.|en
+DUMMY/LJ/LJ014-0241.wav|2|Walter Watts was an inventor, a creator, who struck an entirely new and original line of crime.|en
+DUMMY/LJ/LJ014-0242.wav|2|Employed as a clerk in the Globe Assurance,|en
+DUMMY/LJ/LJ014-0243.wav|2|he with unusual quickness of apprehension discovered and promptly turned to account an inexcusably lax system of management,|en
+DUMMY/LJ/LJ014-0244.wav|2|which offered peculiar chances of profit to an ingenious and unscrupulous man.|en
+DUMMY/LJ/LJ014-0245.wav|2|It was the custom in this office to make the banker's passbook the basis of the entries in the company's ledgers.|en
+DUMMY/LJ/LJ014-0246.wav|2|Thus, when a payment was made by the company, the amount disbursed was carried to account in the general books from its entry in the passbook,|en
+DUMMY/LJ/LJ014-0247.wav|2|and without reference to or comparison with the documents in which the payment was claimed.|en
+DUMMY/LJ/LJ014-0248.wav|2|This passbook, when not at the bank, was in the exclusive custody of Watts.|en
+DUMMY/LJ/LJ014-0249.wav|2|The cheques drawn by the directors also passed through his hands; to him too they came back to be verified and put by,|en
+DUMMY/LJ/LJ014-0250.wav|2|after they had been cashed by the bank.|en
+DUMMY/LJ/LJ014-0251.wav|2|In this way Watts had complete control over the whole of the monetary transactions of the company.|en
+DUMMY/LJ/LJ014-0252.wav|2|He could do what he liked with the passbook, and by its adoption, as described as the basis of all entries,|en
+DUMMY/LJ/LJ014-0253.wav|2|there was no independent check upon him if he chose to tamper with it.|en
+DUMMY/LJ/LJ014-0254.wav|2|This he did to an enormous extent,|en
+DUMMY/LJ/LJ014-0255.wav|2|continually altering, erasing, and adding figures to correspond with and cover the abstractions he made of various cheques as they were drawn.|en
+DUMMY/LJ/LJ014-0256.wav|2|It seems incredible that this passbook, which when produced in court|en
+DUMMY/LJ/LJ014-0257.wav|2|was a mass of blots and erasures, should not have created suspicion of foul play either at the bank or at the company's board.|en
+DUMMY/LJ/LJ014-0258.wav|2|Implicit confidence appears to have been placed in Watts, who was the son of an old and trusted employee, and, moreover, a young man of plausible address.|en
+DUMMY/LJ/LJ014-0259.wav|2|Watts led two lives.|en
+DUMMY/LJ/LJ014-0260.wav|2|In the West End he was a man of fashion, with a town house, a house at Brighton, and a cellar full of good wine at both.|en
+DUMMY/LJ/LJ014-0261.wav|2|He rode a priceless hack in Rotten Row, or drove down to Richmond in a mail phaeton and pair.|en
+DUMMY/LJ/LJ014-0262.wav|2|He played high, and spent his nights at the club, or in joyous and dissolute company.|en
+DUMMY/LJ/LJ014-0263.wav|2|When other pleasures palled he took a theatre, and posed as a munificent patron of the dramatic art.|en
+DUMMY/LJ/LJ014-0264.wav|2|Under his auspices several "stars" appeared on the boards of the Marylebone theatre,|en
+DUMMY/LJ/LJ014-0265.wav|2|and later he became manager of the newly rebuilt Olympic at Wych Street.|en
+DUMMY/LJ/LJ014-0266.wav|2|No one cared too closely to inquire into the sources of wealth. Some said he was a fortunate speculator in stocks,|en
+DUMMY/LJ/LJ014-0267.wav|2|others that he had had extraordinary luck as a gold-digger. Had his West End and little-informed associates followed him into the city,|en
+DUMMY/LJ/LJ014-0268.wav|2|whither he was taken every morning in a smart brougham, they would have seen him alight from it in Cornhill,|en
+DUMMY/LJ/LJ014-0269.wav|2|and walk forward on foot to enter as a humble and unpretending employee the doors of the Globe Assurance office.|en
+DUMMY/LJ/LJ014-0271.wav|2|Nevertheless, in this position, through the culpable carelessness which left him unfettered, he managed between eighteen forty-four|en
+DUMMY/LJ/LJ014-0272.wav|2|and eighteen fifty to embezzle and apply to his own purposes some seventy-one thousand pounds.|en
+DUMMY/LJ/LJ014-0273.wav|2|The detection of these frauds came while he was still prominently before the world as the lessee of the Olympic.|en
+DUMMY/LJ/LJ014-0274.wav|2|Rumors were abroad that serious defalcations had been discovered in one of the insurance offices,|en
+DUMMY/LJ/LJ014-0275.wav|2|but it was long before the public realized that the fraudulent clerk and the great theatrical manager were one and the same person.|en
+DUMMY/LJ/LJ014-0276.wav|2|Watts's crime was discovered by the secretary of the Globe Company, who came suddenly upon the extensive falsification of the passbook.|en
+DUMMY/LJ/LJ014-0277.wav|2|An inquiry was at once set on foot, and the frauds were traced to Watts.|en
+DUMMY/LJ/LJ014-0278.wav|2|The latter, when first taxed with his offense, protested his innocence boldly, and positively denied all knowledge of the affair;|en
+DUMMY/LJ/LJ014-0279.wav|2|and he had so cleverly destroyed all traces that it was not easy to bring home the charge.|en
+DUMMY/LJ/LJ014-0280.wav|2|But it was proved that Watts had appropriated one cheque for fourteen hundred pounds,|en
+DUMMY/LJ/LJ014-0281.wav|2|which he had paid into his own bankers, and on this he was committed to Newgate for trial.|en
+DUMMY/LJ/LJ014-0282.wav|2|There were two counts in the indictment: one for stealing a cheque value fourteen hundred pounds, the second for stealing a bit of paper value one penny.|en
+DUMMY/LJ/LJ014-0283.wav|2|The jury found him guilty of the latter only, with a point of law reserved. This was fully argued before three judges,|en
+DUMMY/LJ/LJ014-0285.wav|2|and not for the slight offense as it appeared on the record.|en
+DUMMY/LJ/LJ014-0286.wav|2|The sentence of the court, one of ten years' transportation, struck the prisoner with dismay.|en
+DUMMY/LJ/LJ014-0287.wav|2|He had been led to suppose that twelve months' imprisonment was the utmost the law could inflict, and he broke down utterly under the unexpected blow.|en
+DUMMY/LJ/LJ014-0288.wav|2|That same evening he committed suicide in Newgate.|en
+DUMMY/LJ/LJ014-0289.wav|2|The details of the suicide were given at the inquest. Watts had been in ill-health from the time of his first arrest.|en
+DUMMY/LJ/LJ014-0290.wav|2|In Giltspur Street Compter, where he was first lodged|en
+DUMMY/LJ/LJ014-0291.wav|2|he showed symptoms of delirium tremens, and admitted that he had been addicted to the excessive use of stimulants.|en
+DUMMY/LJ/LJ014-0292.wav|2|His health improved, but was still indifferent when he was brought up for sentence, and he was an occupant of the Newgate infirmary.|en
+DUMMY/LJ/LJ014-0293.wav|2|He returned from court in a state of gloomy dejection,|en
+DUMMY/LJ/LJ014-0294.wav|2|and in the middle of the night one of the fellow-prisoners who slept in the same ward noticed that he was not in his bed.|en
+DUMMY/LJ/LJ014-0295.wav|2|This man got up to look for him, and found him hanging from the bars of a neighboring room.|en
+DUMMY/LJ/LJ014-0296.wav|2|He had made use of a piece of rope cut out from the sacking of his bedstead, and had tied his feet together with a silk pocket-handkerchief.|en
+DUMMY/LJ/LJ014-0297.wav|2|The prison officers were called, but Watts was quite cold and stiff when he was cut down.|en
+DUMMY/LJ/LJ014-0298.wav|2|Strange to say, a second suicide occurred in Newgate the same night,|en
+DUMMY/LJ/LJ014-0299.wav|2|that of a prize-fighter named Donovan, tried the same day, and convicted of manslaughter.|en
+DUMMY/LJ/LJ014-0300.wav|2|Sentence of death had been recorded against Donovan, who, like Watts, had seemingly been overcome with sudden despair.|en
+DUMMY/LJ/LJ014-0301.wav|2|In eighteen fifty-three a second case of gigantic fraud alarmed and scandalized the financial world.|en
+DUMMY/LJ/LJ014-0302.wav|2|It outshone the defalcations of Watts.|en
+DUMMY/LJ/LJ014-0303.wav|2|Nothing to equal the excitement caused by the forgeries of Robert Ferdinand Pries had been known before in the city of London.|en
+DUMMY/LJ/LJ014-0304.wav|2|He was a corn merchant who operated largely in grain.|en
+DUMMY/LJ/LJ014-0305.wav|2|So enormous were his transactions, that they often affected the markets, and caused great fluctuations in prices.|en
+DUMMY/LJ/LJ014-0306.wav|2|These had been attributed to political action; some thought that the large purchases in foreign grains, effected at losing prices,|en
+DUMMY/LJ/LJ014-0307.wav|2|were intended by the protectionists to depress the wheat market, and secure the support of the farmers at the forthcoming election;|en
+DUMMY/LJ/LJ014-0308.wav|2|others, that Napoleon the third, but recently proclaimed Emperor of the French, wished to gain the popularity necessary to secure the people.|en
+DUMMY/LJ/LJ014-0309.wav|2|Few realized that these mysterious operations were the "convulsive attempt" of a ruined and dishonest speculator to sustain his credit.|en
+DUMMY/LJ/LJ014-0310.wav|2|Pries, although enjoying a high reputation in the city, had long been in a bad way.|en
+DUMMY/LJ/LJ014-0311.wav|2|His extensive business had been carried on by fraud.|en
+DUMMY/LJ/LJ014-0312.wav|2|His method was to obtain advances twice over on the same bills of lading or corn warrants. The duplicates were forged.|en
+DUMMY/LJ/LJ014-0313.wav|2|In this way he obtained vast sums from several firms, and one to which he was indebted upwards of fifty thousand pounds subsequently stopped payment.|en
+DUMMY/LJ/LJ014-0314.wav|2|Pries at length was discovered|en
+DUMMY/LJ/LJ014-0315.wav|2|through a dishonored cheque for three thousand pounds, paid over as an installment of eighteen thousand pounds owing for an advance on warrants.|en
+DUMMY/LJ/LJ014-0316.wav|2|Inquiries were instituted when the cheque was protested, which led to the discovery of the forgeries.|en
+DUMMY/LJ/LJ014-0317.wav|2|Pries was lodged in Newgate, tried at the Old Bailey, and transported for life.|en
+DUMMY/LJ/LJ014-0318.wav|2|Another set of frauds, which resembled those of Pries in principle, although not in practice, were soon afterwards discovered.|en
+DUMMY/LJ/LJ014-0320.wav|2|proposed to gain the capital he needed for business purposes by raising money on dock warrants for imported goods which had no real existence.|en
+DUMMY/LJ/LJ014-0321.wav|2|When such goods arrived they were frequently left at a wharf, paying rent until it suited the importer to remove them.|en
+DUMMY/LJ/LJ014-0322.wav|2|The dock warrant was issued by the wharfinger as certificate that he held the goods.|en
+DUMMY/LJ/LJ014-0323.wav|2|The warrant thus represented money, and was often used as such, being endorsed and passed from hand to hand as other negotiable bills.|en
+DUMMY/LJ/LJ014-0324.wav|2|Cole's plan was to have a wharf of his own, nominally occupied by a creature trading as Maltby and Co.|en
+DUMMY/LJ/LJ014-0325.wav|2|Goods would be landed at this wharf;|en
+DUMMY/LJ/LJ014-0326.wav|2|Maltby and Co. would issue warrants on them deliverable to the importer, and the goods were then passed to be stored in neighboring warehouses.|en
+DUMMY/LJ/LJ014-0327.wav|2|The owners of the latter would then issue a second set of warrants on these goods, in total ignorance of the fact that they were already pledged.|en
+DUMMY/LJ/LJ014-0328.wav|2|Cole quickly raised money on both sets of warrants. He carried on this game for some time with great success,|en
+DUMMY/LJ/LJ014-0329.wav|2|and so developed his business that in one year his transactions amounted to a couple of millions of pounds.|en
+DUMMY/LJ/LJ014-0330.wav|2|He had several narrow escapes.|en
+DUMMY/LJ/LJ014-0331.wav|2|Once a warrant-holder sent down a clerk to view certain goods, and the clerk found that these goods had already a "stop" upon them, or were pledged.|en
+DUMMY/LJ/LJ014-0332.wav|2|Cole escaped by throwing the blame on a careless partner, and at once removed the "stop."|en
+DUMMY/LJ/LJ014-0333.wav|2|Again, some of the duplicate and fictitious warrants were held by a firm which suspended payment, and there was no knowing into whose hands they might fall.|en
+DUMMY/LJ/LJ014-0334.wav|2|Cole found out where they were, and redeemed them at a heavy outlay, thus obtaining business relations with the firm that held them,|en
+DUMMY/LJ/LJ014-0335.wav|2|which were soon developed, much to that firm's subsequent anger and regret.|en
+DUMMY/LJ/LJ014-0336.wav|2|Last of all, the well-known bankers Overend and Gurney, whose own affairs created much excitement some years later,|en
+DUMMY/LJ/LJ014-0337.wav|2|wishing to verify the value of warrants they held, and sending to Maltby and Co.'s wharf, found out half the truth.|en
+DUMMY/LJ/LJ014-0338.wav|2|These bankers, wishing for more specific information,|en
+DUMMY/LJ/LJ014-0339.wav|2|asked Davidson and Gordon, a firm with which Cole was closely allied, whether the warrants meant goods or nothing.|en
