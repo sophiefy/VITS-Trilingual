@@ -29,12 +29,12 @@
     "mel_fmin": 0.0,
     "mel_fmax": null,
     "add_blank": false,
-    "n_speakers": 7,
+    "n_speakers": 3,
     "cleaned_text": true
   },
   "model": {
-    "inter_channels": 256,
-    "hidden_channels": 192,
+    "inter_channels": 192,
+    "hidden_channels": 256,
     "filter_channels": 768,
     "n_heads": 2,
     "n_layers": 6,
