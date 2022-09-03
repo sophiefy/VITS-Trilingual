@@ -158,6 +158,7 @@ def japanese_cleaner_1(text):
 
 def japanese_cleaner_2(text):
     new_text = ''
+    length = len(text)
     for i, char in enumerate(text):
         char = char.replace('A', 'a').replace('I', 'i').replace('U', 'u').replace('E', 'e').replace('O', 'o')
         new_text += char
@@ -188,7 +189,6 @@ def add_tone(text, low=True):
 def japanese_cleaner_3(text):
     parts = text.split('#')
     new_text = ''
-    print(parts)
     for part in parts:
         # low high
         if '↑' in part and '↓' not in part:
