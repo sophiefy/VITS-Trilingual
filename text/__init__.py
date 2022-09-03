@@ -33,7 +33,7 @@ def cleaned_text_to_sequence(cleaned_text, lang):
       List of integers corresponding to the symbols in the text
   '''
   sequence = []
-  vectors = phoneme_encoder(clean_text, lang)
+  vectors = phoneme_encoder(cleaned_text, lang)
 
   for vector in vectors:
     symbol = vector[0]
