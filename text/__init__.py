@@ -13,17 +13,22 @@ def text_to_sequence(text, cleaner_names, lang):
 
   sequence = []
   clean_text = _clean_text(text, cleaner_names,lang)
-  vectors = phoneme_encoder(clean_text, lang)
+  # vectors = phoneme_encoder(clean_text, lang)
 
-  for vector in vectors:
-    symbol = vector[0]
+#   for vector in vectors:
+#     symbol = vector[0]
+#     if symbol not in _symbol_to_id.keys():
+#       continue
+#     symbol_id = _symbol_to_id[symbol]
+#     vector[0] = symbol_id
+#     sequence.append(vector)
+#   return sequence
+  for symbol in clean_text:
     if symbol not in _symbol_to_id.keys():
       continue
     symbol_id = _symbol_to_id[symbol]
-    vector[0] = symbol_id
-    sequence.append(vector)
+    sequence += [symbol_id]
   return sequence
-
 
 def cleaned_text_to_sequence(cleaned_text, lang):
   '''Converts a string of text to a sequence of IDs corresponding to the symbols in the text.
@@ -32,16 +37,18 @@ def cleaned_text_to_sequence(cleaned_text, lang):
     Returns:
       List of integers corresponding to the symbols in the text
   '''
-  sequence = []
-  vectors = phoneme_encoder(cleaned_text, lang)
+#   sequence = []
+#   vectors = phoneme_encoder(cleaned_text, lang)
 
-  for vector in vectors:
-    symbol = vector[0]
-    if symbol not in _symbol_to_id.keys():
-      continue
-    symbol_id = _symbol_to_id[symbol]
-    vector[0] = symbol_id
-    sequence.append(vector)
+#   for vector in vectors:
+#     symbol = vector[0]
+#     if symbol not in _symbol_to_id.keys():
+#       continue
+#     symbol_id = _symbol_to_id[symbol]
+#     vector[0] = symbol_id
+#     sequence.append(vector)
+#   return sequence
+  sequence = [_symbol_to_id[symbol] for symbol in cleaned_text if symbol in _symbol_to_id.keys()]
   return sequence
 
 
