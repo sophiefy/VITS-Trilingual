@@ -1,7 +1,7 @@
 """ from https://github.com/keithito/tacotron """
 from text import cleaners
 from text.symbols import symbols
-from text.cleaners import phoneme_encoder
+# from text.cleaners import phoneme_encoder
 
 
 # Mappings from symbol to numeric ID and vice versa:
