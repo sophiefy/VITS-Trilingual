@@ -165,8 +165,8 @@ class TextEncoder(nn.Module):
     self.proj= nn.Conv1d(hidden_channels, out_channels * 2, 1)
 
   def forward(self, x, x_lengths):
-    x_text = torch.LongTensor(len(x), len(x[0])).cuda()
-    x_info = torch.LongTensor(len(x), len(x[0]), 6).cuda()
+    x_text = torch.FloatTensor(len(x), len(x[0])).cuda()
+    x_info = torch.FloatTensor(len(x), len(x[0]), 6).cuda()
     for i in range(len(x)):
       x_text[i, :] = x[i, :, 0]
       x_info[i, :, :] = x[i, :, 1:]
